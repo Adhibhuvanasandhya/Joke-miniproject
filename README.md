@@ -46,7 +46,7 @@ Welcome to the **Joke Generator App**! This project fetches jokes from the Chuck
 
 4. Open your browser and navigate to:
    ```
-   http://localhost:3000
+   https://joke-miniproject.vercel.app/
    ```
 
 ---
